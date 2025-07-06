@@ -17,7 +17,6 @@ export const metadata: Metadata = {
   description: "Find motivation, wisdom, and insights with our collection of inspiring quotes. Explore topics like motivation, life, success, and more.",
   keywords: ["quotes", "motivation", "inspiration", "wisdom", "life", "success"],
   authors: [{ name: "Quote Explorer" }],
-  viewport: "width=device-width, initial-scale=1",
 };
 
 export default function RootLayout({

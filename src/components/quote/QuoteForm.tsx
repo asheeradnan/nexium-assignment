@@ -111,9 +111,9 @@ export default function QuoteForm() {
                   </div>
                   <div className="flex-1">
                     <blockquote className="text-lg text-slate-700 dark:text-slate-300 leading-relaxed">
-                      <span className="text-blue-500 text-2xl font-serif">"</span>
+                      <span className="text-blue-500 text-2xl font-serif">&ldquo;</span>
                       <span className="italic">{quote}</span>
-                      <span className="text-blue-500 text-2xl font-serif">"</span>
+                      <span className="text-blue-500 text-2xl font-serif">&rdquo;</span>
                     </blockquote>
                     {quote !== "No quotes found for this topic." && (
                       <div className="mt-4 pt-3 border-t border-slate-200 dark:border-slate-700">
