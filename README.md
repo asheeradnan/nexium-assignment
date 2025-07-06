@@ -129,8 +129,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Icons by [Lucide](https://lucide.dev/)
 - Fonts by [Google Fonts](https://fonts.google.com/)
-- Deployed on [Vercel](https://vercel.com/)
+- Deployed on [Vercel](https://nexium-assignment.vercel.app/)
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Asheer Adnan
